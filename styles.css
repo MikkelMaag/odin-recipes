@@ -1,0 +1,30 @@
+* {
+    font-family: Comic 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: rgb(223, 207, 189);
+    color: rgb(60, 67, 67);
+    font-size: 40px;
+}
+
+#site-title {
+    font-size: 80px;
+}
+
+.recipe-image {
+    display: block;
+    margin: auto;
+    width: 600px;
+    height: auto;
+}
+
+.recipe {
+    font-size: 40px;
+}
+
+.recipe h1 {
+    font-size: 60px;
+    text-align: center;
+}
+
+.recipe h2 {
+    font-size: 50px;
+}
