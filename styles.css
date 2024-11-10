@@ -28,3 +28,17 @@
 .recipe h2 {
     font-size: 50px;
 }
+
+.recipe-container {
+    background-color: rgb(83, 81, 55);
+    margin: 30 auto;
+    padding: 16px;
+}
+
+.recipe-item {
+    text-align: center;
+    background-color: darkgreen;
+    display: inline-block;
+    padding: 10px 20px;
+    margin: 8px auto;
+}
